@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public static void print(){
         Log.e("dk","kdk");
+        Log.e("dk","kdk");
     }
 }
