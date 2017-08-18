@@ -18,4 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("dk","kdk");
         Log.e("dk","kdk");
     }
+    public void b(){
+
+    }
 }
